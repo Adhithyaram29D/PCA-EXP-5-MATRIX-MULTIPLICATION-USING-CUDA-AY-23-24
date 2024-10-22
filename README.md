@@ -194,7 +194,9 @@ int main()
 ## OUTPUT:
 
 <img src="https://github.com/user-attachments/assets/5a63bc90-3d84-404d-9036-3cb36a42faac" width=25%>
+<BR>
 <img src="https://github.com/user-attachments/assets/48e4dde9-0c9f-4512-9242-36061aeb873e" width=30%>
+<br>
 <img src="https://github.com/user-attachments/assets/61cc1172-2b7c-4ee5-b692-dc5cdad959e1" width=50%>
 
 ## RESULT:
